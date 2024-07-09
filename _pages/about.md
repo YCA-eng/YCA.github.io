@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# Hi there, I'm AnChun Yu 👋
+# 👋Hi there, I'm AnChun Yu 
 
 introduce：-----
 
@@ -17,7 +17,7 @@ introduce：-----
 - 🔬 Researching on natural language processing
 - 💻 Building innovative software solutions
 
-## 🌐 What papers do I have?
+## 🌐 What papers do I have
 - Freshness uniformity measurement network based on multi-layer feature fusion and histogram layer  《Signal, Image and Video Processing》 SCI Ⅳ
 - SPATIO-TEMPORAL ACTION DETECTION WITH A MOTION SENSE AND SEMANTIC CORRECTION FRAMEWORK 《IEEE International Conference on Acoustics, Speech and Signal Processing》 CCF-B
 - Sketch in VR, Make it Real: Rapid 3D Model Generation using VR 3D Sketching 《IEEE Conference on Computer Vision and Pattern Recognition》 CCF-A
@@ -26,7 +26,7 @@ introduce：-----
 
 - 📮Email：------
 
-## 💼 What skills do I have?
+## 💼 What skills do I have
 
 - Programming Languages: Python, Java, C++
 - Web Development: HTML, CSS, JavaScript
