@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "1720506079491.png"
+  avatar           : 1720506079491.png
   name             : "AnChun Yu"
   pronouns         : # example: "she/her"  
   bio              : "Even if the road is long, you will reach your destination. Even if the task is difficult, you will succeed."
