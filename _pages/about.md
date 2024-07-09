@@ -24,11 +24,11 @@ introduce：-----
 
 ## 📫 How to reach me
 
-- 📮Email：------
+- 📮Email：15965527515@163.com
 
 ## 💼 What skills do I have
 
-- Programming Languages: Python, Java, C++
+- Programming Languages: Python, C++
 - Web Development: HTML, CSS, JavaScript
 - Data Analysis: R, MATLAB
 - Tools: Git, Docker, Kubernetes
