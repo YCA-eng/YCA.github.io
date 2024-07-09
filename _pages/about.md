@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# 👋Hi there, I'm Yu ChunAn
+# 👋Hi there, I'm Yu Chunan
 
 introduce：-----
 
