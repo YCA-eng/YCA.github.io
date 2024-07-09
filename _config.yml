@@ -12,7 +12,7 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : YCA.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : 1720506079491.png
+  avatar           : "DSC0.png"
   name             : "AnChun Yu"
   pronouns         : # example: "she/her"  
   bio              : "Even if the road is long, you will reach your destination. Even if the task is difficult, you will succeed."
