@@ -12,7 +12,7 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Yca"
 description              : &description "personal description"
-url                      : https://YCA.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yca-eng.github.io/YCA.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
