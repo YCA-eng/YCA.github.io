@@ -18,9 +18,9 @@ introduce：-----
 - 💻 Building innovative software solutions
 
 ## 🌐 What papers do I have?
-- 1.Freshness uniformity measurement network based on multi-layer feature fusion and histogram layer  《Signal, Image and Video Processing》 SCI Ⅳ区
-- 2.SPATIO-TEMPORAL ACTION DETECTION WITH A MOTION SENSE AND SEMANTIC CORRECTION FRAMEWORK 《IEEE International Conference on Acoustics, Speech and Signal Processing》 CCF-B
-- 3.Sketch in VR, Make it Real: Rapid 3D Model Generation using VR 3D Sketching 《IEEE Conference on Computer Vision and Pattern Recognition》 CCF-A
+- Freshness uniformity measurement network based on multi-layer feature fusion and histogram layer  《Signal, Image and Video Processing》 SCI Ⅳ
+- SPATIO-TEMPORAL ACTION DETECTION WITH A MOTION SENSE AND SEMANTIC CORRECTION FRAMEWORK 《IEEE International Conference on Acoustics, Speech and Signal Processing》 CCF-B
+- Sketch in VR, Make it Real: Rapid 3D Model Generation using VR 3D Sketching 《IEEE Conference on Computer Vision and Pattern Recognition》 CCF-A
 
 ## 📫 How to reach me
 
