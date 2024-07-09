@@ -9,18 +9,20 @@ redirect_from:
 
 # 👋Hi there, I'm Yu Chunan
 
-introduce：-----
+Hi, my name is Chunan Yu. I am currently a graduate student at Huzhou University, focusing on deep learning and computer graphics. As a beginner in this field, I am eager to learn and improve my skills. I hope to further my studies and pursue a Ph.D. in the future. I welcome any advice and discussions on related topics.
 
 ## 🔭 What I'm working on
 
-- 🌱 Currently learning advanced machine learning techniques
-- 🔬 Researching on natural language processing
-- 💻 Building innovative software solutions
+- 🌱 Natural Language Processing
+- 🔬 Computer Vision Action Recognition
+- 💻 Computer Graphics 3D Reconstruction
 
 ## 🌐 What papers do I have
-- Freshness uniformity measurement network based on multi-layer feature fusion and histogram layer  《Signal, Image and Video Processing》 SCI Ⅳ
-- SPATIO-TEMPORAL ACTION DETECTION WITH A MOTION SENSE AND SEMANTIC CORRECTION FRAMEWORK 《IEEE International Conference on Acoustics, Speech and Signal Processing》 CCF-B
-- Sketch in VR, Make it Real: Rapid 3D Model Generation using VR 3D Sketching 《IEEE Conference on Computer Vision and Pattern Recognition》 CCF-A
+
+- "Freshness uniformity measurement network based on multi-layer feature fusion and histogram layer". Signal, Image and Video Processing (SCI Ⅳ)
+- "SPATIO-TEMPORAL ACTION DETECTION WITH A MOTION SENSE AND SEMANTIC CORRECTION FRAMEWORK. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP, CCF-B)
+- "Rapid 3D Model Generation with Intuitive 3D Input". IEEE Conference on Computer Vision and Pattern Recognition (CVPR, CCF-A)
+- "Reasoning3D -- Grounding and Reasoning in 3D: Fine-Grained Zero-Shot Open-Vocabulary 3D Reasoning Part Segmentation via Large Vision-Language Models". arxiv
 
 ## 📫 How to reach me
 
@@ -29,8 +31,7 @@ introduce：-----
 ## 💼 What skills do I have
 
 - Programming Languages: Python, C++
-- Web Development: HTML, CSS, JavaScript
-- Data Analysis: R, MATLAB
-- Tools: Git, Docker, Kubernetes
+- Data Analysis: Pandas, MATLAB
+- Tools: Git, Docker
 
 
