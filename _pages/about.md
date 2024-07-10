@@ -28,6 +28,10 @@ Hi, my name is Yu Chunan. I am currently a graduate student at Huzhou University
 
 - 📮Email：15965527515@163.com
 
+## 🏷️ How to find my blog
+
+- 📮Email：15965527515@163.com
+- 
 ## 💼 What skills do I have
 
 - Programming Languages: Python, C++
