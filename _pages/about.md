@@ -24,7 +24,7 @@ Hi, my name is Yu Chunan. I am currently a graduate student at Huzhou University
 - "Rapid 3D Model Generation with Intuitive 3D Input". IEEE Conference on Computer Vision and Pattern Recognition (CVPR, CCF-A)
 - "Reasoning3D -- Grounding and Reasoning in 3D: Fine-Grained Zero-Shot Open-Vocabulary 3D Reasoning Part Segmentation via Large Vision-Language Models". arxiv
 
-## 📫 How to reach me
+## 📫 How to contact me
 
 - 📮Email：15965527515@163.com
 
