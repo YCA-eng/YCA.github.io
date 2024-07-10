@@ -30,7 +30,7 @@ Hi, my name is Yu Chunan. I am currently a graduate student at Huzhou University
 
 ## 🏷️ How to find my blog
 
-- 📓Blog："https://blog.csdn.net/programmer_A?type=blog"
+- 📓Blog：（https://blog.csdn.net/programmer_A?type=blog）
   
 ## 💼 What skills do I have
 
