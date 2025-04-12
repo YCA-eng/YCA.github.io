@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Freshness uniformity measurement network based on multi-layer feature fusion and histogram layer"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+excerpt: 'This paper introduces the Multi-Scale Feature Histogram Network (MFHisNet) for texture classification, addressing issues in existing algorithms such as inadequate multi-scale feature representation and lack of feature selection.'
+date: 2023-11-19
+venue: 'Signal, Image and Video Processing'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://link.springer.com/article/10.1007/s11760-023-02837-z)'
+citation: 'Zang Y, Yu C, Fu C, et al. Freshness uniformity measurement network based on multi-layer feature fusion and histogram layer[J]. Signal, Image and Video Processing, 2024, 18(2): 1525-1538.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The arrangement of products on supermarket freshness shelves exhibits a certain pattern and displays distinct texture characteristics. In recent years, many studies have applied texture extraction algorithms in deep learning, such as the Histogram Layer Residual Network (HistNet). However, this algorithm still has obvious disadvantages, such as neglecting the optimal representation of multi-scale texture features and lacking feature selection during extraction. To address these issues, this paper introduces a novel texture classification network—Multi-Scale Feature Histogram Network (MFHisNet). First, we design a Multi-Scale Feature Fusion Module (MF-Block) to achieve a multi-level representation of texture information. Then, we utilize an attention module (CBAM) to weight crucial information and suppress background interference for deeper level texture features. Experimental results demonstrate that the model achieves accuracies of 82.12 ±2.04, 73.13±1.10, and 83.46±0.62 on the GTOS-mobile, DTD, and MINC-2500 datasets, respectively. Furthermore, based on the proposed model, we propose a measurement method that uses cosine similarity to measure the uniformity of freshness placement, and the effectiveness of this method was verified on the dataset we collected.
