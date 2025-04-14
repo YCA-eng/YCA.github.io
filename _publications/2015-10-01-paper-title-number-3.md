@@ -5,7 +5,7 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'The paper proposes Deep3DVRSketch, a 3D model generation network that enables novice users to create high-quality 3D models from 3D VR sketches. It aims to overcome the complexity of traditional CAD software. The method uses AI models and introduces the KO3D+ dataset. Experiments show it is over 10 times faster than conventional CAD tools.'
 date: 2024-9-16
 venue: 'Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR).'
-slidesurl: 'https://github.com/YCA-eng/YCA.github.io/tree/master/files/Rapid_3D_Model_Generation_with_Intuitive_3D_Input.pdf'
+paperpdf: 'https://github.com/YCA-eng/YCA.github.io/tree/master/files/Rapid_3D_Model_Generation_with_Intuitive_3D_Input.pdf'
 paperurl: 'https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Rapid_3D_Model_Generation_with_Intuitive_3D_Input_CVPR_2024_paper.pdf'
 citation: 'Chen T, Ding C, Zhang S, et al. Rapid 3d model generation with intuitive 3d input[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024: 12554-12564.'
 ---
