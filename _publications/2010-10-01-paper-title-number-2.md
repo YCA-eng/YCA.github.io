@@ -5,7 +5,7 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'The paper proposes a new framework called Motion Sense and Semantic Correction (MS-SC) to address the challenges of distinguishing between action and non-action features and the fusion of information across different modalities in spatio-temporal action detection. The Motion Sense Module (MSM) increases the distance between action and non-action features, improving feature discriminability. The Semantic Correction Fusion Module (SFM) facilitates interaction between features from different modalities, maximizing information integration.'
 date: 2024-3-18
 venue: '2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+paperpdf: 'https://github.com/YCA-eng/YCA.github.io/edit/master/files/Spatio-Temporal_Action_Detection_with_a_Motion_Sense_and_Semantic_Correction_Framework.pdf'
 paperurl: 'https://ieeexplore.ieee.org/document/10447413'
 citation: 'Zhang Y, Yu C, Fu C, et al. Spatio-Temporal Action Detection with a Motion Sense and Semantic Correction Framework[C]//ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2024: 3645-3649.'
 ---
