@@ -5,8 +5,8 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper introduces the Multi-Scale Feature Histogram Network (MFHisNet) for texture classification, addressing issues in existing algorithms such as inadequate multi-scale feature representation and lack of feature selection.'
 date: 2023-11-19
 venue: 'Signal, Image and Video Processing'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://link.springer.com/article/10.1007/s11760-023-02837-z)'
+paperpdf: 'https://github.com/YCA-eng/YCA.github.io/tree/master/files/Freshness uniformity measurement network based on multi-layer.pdf'
+paperurl: 'https://link.springer.com/article/10.1007/s11760-023-02837-z'
 citation: 'Zang Y, Yu C, Fu C, et al. Freshness uniformity measurement network based on multi-layer feature fusion and histogram layer[J]. Signal, Image and Video Processing, 2024, 18(2): 1525-1538.'
 ---
 
